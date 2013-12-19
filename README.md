@@ -8,3 +8,8 @@ While nobody in their right mind would write a ASP "Classic" project today, some
 Lassic is a simple, fast templating engine that can marge with database records and can also do some conditional logic tricks.
 
 Demo: http://johnedmundrose.com/lassic_demo.asp
+
+
+You may also be interested in:
+- KudzuASP: http://code.google.com/p/allsoft/source/browse/trunk/trunk/Web_Resources/KudzuASP
+- These crazy bastards: http://www.classicaspcms.com/
